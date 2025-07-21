@@ -75,7 +75,7 @@ src/
 - Kafka (Bitnami)
 - PostgreSQL
 - Docker & Docker Compose
-- Kubernetes-ready (YAML files provided)
+-  YAML files
 
 ---
 
